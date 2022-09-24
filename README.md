@@ -6,6 +6,11 @@ Challenges are at [PwnFunction/sandbox.pwnfunction.com](https://github.com/PwnFu
 
 > ⚠ This repo not maintained anymore. Building a better version - [HackerCamp.co](https://hackercamp.co/)
 
+## Requirements
+
+- `brew install hugo`
+- `asdf`
+
 ## Live version
 
 👉 Hosted at [xss.pwnfunction.com](https://xss.pwnfunction.com/)
